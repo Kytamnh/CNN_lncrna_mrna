@@ -1,1 +1,1 @@
-# CNN_lncrna_mrna
+# Classification model - lncRNA & mRNA
